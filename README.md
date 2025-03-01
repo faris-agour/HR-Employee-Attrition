@@ -3,7 +3,8 @@
 ## Overview  
 This project analyzes employee attrition data to understand the factors that contribute to employees leaving an organization. By leveraging data analysis and machine learning techniques, the goal is to identify patterns and predictors of attrition, helping HR departments take proactive measures to retain talent and improve employee satisfaction.  
 
-![Dashboard Overview](https://github.com/user-attachments/assets/89ab42b7-f09c-4843-b291-81837eb35e7c)  
+![image](https://github.com/user-attachments/assets/3acede12-2c59-444f-a0d1-16d74420c2b8)
+
 
 ## Dashboard Insights  
 The dashboard provides a visual representation of key attrition trends based on different employee attributes. It includes:  
